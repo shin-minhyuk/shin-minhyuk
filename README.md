@@ -1,6 +1,6 @@
 ![header](https://github.com/user-attachments/assets/6c84d265-c308-4b10-952e-9389448d43a7)
 
-<h2 align="center">✨ Tech Stack ✨</h3>
+<h2 align="center">✨ Tech Stack ✨</h2>
 <div align="center">
   <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -10,6 +10,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
 </div>
+
 <!--
 <div align="center">
   <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=ffd35b" />&nbsp
@@ -17,15 +18,14 @@
 </div>
 -->
 
-
-<h2 align="center">🛠 Tools 🛠</h3>
+<h2 align="center">🛠 Tools 🛠</h2>
 <div align="center">
   <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp
 </div>
 
-<h2 align="center">📫 Contact 📫</h3>
+<h2 align="center">📫 Contact 📫</h2>
 <div align="center">
   <a href="afs_style@naver.com">
     <img
