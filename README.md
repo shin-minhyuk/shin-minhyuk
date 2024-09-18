@@ -1,4 +1,5 @@
-![header](https://github.com/user-attachments/assets/6c84d265-c308-4b10-952e-9389448d43a7)
+<!-- ![header](https://github.com/user-attachments/assets/6c84d265-c308-4b10-952e-9389448d43a7) -->
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=MINHYUK&20render&fontSize=90)
 
 <h2 align="center">✨ Tech Stack ✨</h2>
 <div align="center">
