@@ -1,62 +1,54 @@
-<!-- ![header](https://github.com/user-attachments/assets/6c84d265-c308-4b10-952e-9389448d43a7) -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=MINHYUK&20render&fontSize=90)
-
-<h2 align="center">✨ Tech Stack ✨</h2>
 <div align="center">
-  <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
-</div>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black" />&nbsp
-<!--   <img src="https://img.shields.io/badge/react_native-61DAFB?style=for-the-badge&logo=react&logoColor=black" />&nbsp -->
-  <img src="https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=redux&logoColor=black" />&nbsp
-<!--   <img src="https://img.shields.io/badge/styled_components-DB7093?style=for-the-badge&logo=styled-components&logoColor=black" />&nbsp -->
-</div>
+![header](https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&text=Min-Hyuk%20%20Shin&textBg=false&fontSize=70&fontAlign=50&fontAlignY=50&animation=twinkling&desc=I%20find%20joy%20in%20what%20I%20do🎉&descAlignY=78&descAlign=62&descSize=17&reversal=false)
+<br />
 
-<!--
-<div align="center">
-  <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp
-</div>
--->
+  <h3>💻 Tech Stack 💻</h3>
+  <div align="center">
+    <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat&logo=Typescript&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white"/>
+    <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat&logo=React&logoColor=black"/>
+    <br />
+    <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=Tailwind CSS&logoColor=white"/>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=Javascript&logoColor=white"/>
+    <br />
+    <img src="https://img.shields.io/badge/React-Query-FF4154?style=flat&logo=ReactQuery&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Zustand-007ACC?style=flat&logo=react&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white"/>
+  </div>
+  <br>
 
-<h2 align="center">🛠 Tools 🛠</h2>
-<div align="center">
-  <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp
-</div>
+  <h3>🛠 Tools 🛠</h3>
+  <div align="center">
+    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white"/>
+    <br />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat=&logo=GitHub&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white">
+    <img src="https://img.shields.io/badge/Figma-F24E1E.svg?style=flat&logo=figma&logoColor=white"/>
+  </div>
+  <br>
 
-<h2 align="center">📫 Contact 📫</h2>
+  <h3>📫 Contact 📫</h3>
 <div align="center">
-  <a href="afs_style@naver.com">
+  <a href="mailto:afs_style@naver.com">
     <img
-      src="https://img.shields.io/badge/afs_style@naver.com-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white"/>&nbsp
+      src="https://img.shields.io/badge/afs_style@naver.com-0078D4?style=flat&logo=microsoftoutlook&logoColor=white"/>&nbsp
   </a>
   <a href="https://blog.naver.com/afs_style">
     <img
-      src="https://img.shields.io/badge/blog-03C75A?style=for-the-badge&logo=naver&logoColor=white"/>&nbsp
+      src="https://img.shields.io/badge/blog-03C75A?style=flat&logo=naver&logoColor=white"/>&nbsp
   </a>
-<!--   <a href="https://www.instagram.com/{}/">
-    <img
-      src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>&nbsp
-  </a> -->
+</div>
+  
 </div>
 
-<!--
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shin-minhyuk&show_icons=true&theme=radical) 
+  <!-- <h3>✨ GitHub Status ✨</h3>
+  
+  ![minhyuk's github stats](https://github-readme-stats.vercel.app/api?username=shin-minhyuk&show_icons=true&count_private=true&theme=vue)
+  ![minhyuk's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shin-minhyuk&layout=compact&count_private=true&theme=vue&langs_count=8&exclude_repo=boramboram_hackaton,WebPub_Array) -->
 
-**shin-minhyuk/shin-minhyuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <br>
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
