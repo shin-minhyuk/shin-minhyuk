@@ -1,6 +1,7 @@
 <div align="center">
 
 ![header](https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&text=Min-Hyuk%20%20Shin&textBg=false&fontSize=70&fontAlign=50&fontAlignY=50&animation=twinkling&desc=I%20find%20joy%20in%20what%20I%20do🎉&descAlignY=78&descAlign=62&descSize=17&reversal=false)
+
 <br />
 
   <h3>💻 Tech Stack 💻</h3>
