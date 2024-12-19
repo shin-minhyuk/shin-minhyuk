@@ -43,11 +43,9 @@
   </a>
 </div>
   <h3>✨ GitHub Status ✨</h3>
-  
   ![minhyuk's github stats](https://github-readme-stats.vercel.app/api?username=shin-minhyuk&show_icons=true&count_private=true&theme=vue)
   ![minhyuk's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shin-minhyuk&layout=compact&count_private=true&theme=vue&langs_count=8&exclude_repo=boramboram_hackaton,WebPub_Array)
   <br>
-
 </div>
 
 
