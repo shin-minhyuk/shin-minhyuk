@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&text=Min-Hyuk%20%20Shin&textBg=false&fontSize=70&fontAlign=50&fontAlignY=50&animation=twinkling&desc=I%20find%20joy%20in%20what%20I%20do🎉&descAlignY=78&descAlign=62&descSize=17&reversal=false)
 
-<br />
+  <br />
 
   <h3>💻 Tech Stack 💻</h3>
   <div align="center">
@@ -32,20 +32,16 @@
   <br>
 
   <h3>📫 Contact 📫</h3>
-<div align="center">
-  <a href="mailto:afs_style@naver.com">
-    <img
-      src="https://img.shields.io/badge/afs_style@naver.com-0078D4?style=flat&logo=microsoftoutlook&logoColor=white"/>&nbsp
-  </a>
-  <a href="https://blog.naver.com/afs_style">
-    <img
-      src="https://img.shields.io/badge/blog-03C75A?style=flat&logo=naver&logoColor=white"/>&nbsp
-  </a>
-</div>
-  <h3>✨ GitHub Status ✨</h3>
-  ![minhyuk's github stats](https://github-readme-stats.vercel.app/api?username=shin-minhyuk&show_icons=true&count_private=true&theme=vue)
-  ![minhyuk's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shin-minhyuk&layout=compact&count_private=true&theme=vue&langs_count=8&exclude_repo=boramboram_hackaton,WebPub_Array)
-  <br>
+  <div align="center">
+    <a href="mailto:afs_style@naver.com">
+      <img
+        src="https://img.shields.io/badge/afs_style@naver.com-0078D4?style=flat&logo=microsoftoutlook&logoColor=white"/>&nbsp
+    </a>
+    <a href="https://blog.naver.com/afs_style">
+      <img
+        src="https://img.shields.io/badge/blog-03C75A?style=flat&logo=naver&logoColor=white"/>&nbsp
+    </a>
+  </div>
 </div>
 
 
