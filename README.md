@@ -33,13 +33,9 @@
 
   <h3>📫 Contact 📫</h3>
   <div align="center">
-    <a href="mailto:afs_style@naver.com">
+    <a href="mailto:dev.minhyuk@gmail.com">
       <img
-        src="https://img.shields.io/badge/afs_style@naver.com-0078D4?style=flat&logo=microsoftoutlook&logoColor=white"/>&nbsp
-    </a>
-    <a href="https://blog.naver.com/afs_style">
-      <img
-        src="https://img.shields.io/badge/blog-03C75A?style=flat&logo=naver&logoColor=white"/>&nbsp
+        src="https://img.shields.io/badge/dev.minhyuk@gmail.com-0078D4?style=flat&logo=microsoftoutlook&logoColor=white"/>&nbsp
     </a>
   </div>
 </div>
