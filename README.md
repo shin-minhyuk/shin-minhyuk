@@ -1,5 +1,3 @@
-[![viberank](https://www.viberank.app/api/badge/shin-minhyuk)](https://www.viberank.app/profile/shin-minhyuk)
-
 ## Quick Start
 
 Open your terminal and run the `minhyuk` CLI like this
